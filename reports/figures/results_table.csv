@@ -1,6 +1,6 @@
 Model,Test MSE
 Polynomial Regression,38.45860630390851
 Regression Splines,49.4533358778557
-Polynomial Regression,38.45860630390851
+Smoothing Splines,32.307728506798604
 Regression Tree,63.08280011201006
-Random Forest,29.55837235533121
+Random Forest,29.60130673736784
