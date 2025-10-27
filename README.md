@@ -6,7 +6,9 @@ Performance was evaluated using Mean Squared Error (MSE) on a fixed 70/30 train-
 
 ## Repo Structure
 - data/ # split train/test data CSVs
-- reports/ # PNGs exported by notebooks (pred vs actual, residuals, CV curves, etc.)
-  - figures/  # visualizations related to EDA and modeling
+- reports/ 
+  - figures/  # visualizations related to EDA and modeling (pred vs actual, residuals, CV curves, etc.)
+  - Concrete_Project_Report.docx  # full project report write up in word format
+  - Concrete_Project_Report.pdf # full project report write up in pdf format
 - notebooks/ # Reproducible notebooks for EDA, 5 modeling techniques, and output summary
 - src/ # auxiliary plotting functions
